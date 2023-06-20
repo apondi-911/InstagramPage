@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InstaPage</string>
+    <string name="likes">likes</string>
+    <string name="instagram">Instagram</string>
+    <string name="post">Post</string>
+    <string name="posts">Posts</string>
+    <string name="back">back</string>
+    <string name="iam_apondi">iam_apondi</string>
+    <string name="nairobi_kenya">Nairobi,Kenya</string>
+</resources>
