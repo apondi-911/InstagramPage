@@ -7,4 +7,18 @@
     <string name="back">back</string>
     <string name="iam_apondi">iam_apondi</string>
     <string name="nairobi_kenya">Nairobi,Kenya</string>
+    <string name="bookmark">bookmark</string>
+    <string name="send">send</string>
+    <string name="comments">comments</string>
+    <string name="likebutton">likeButton</string>
+    <string name="image_post">image post</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">profile</string>
+    <string name="reels">Reels</string>
+    <string name="new_post">New Post</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="title">Instagram</string>
+    <string name="profile_menu">Profile</string>
 </resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/home"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home" />
+    <item
+        android:title="@string/search"
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/search" />
+    <item
+        android:title="@string/new_post"
+        android:id="@+id/addStories"
+        android:icon="@drawable/add_button" />
+    <item
+        android:title="@string/reels"
+        android:id="@+id/reelsFragment"
+        android:icon="@drawable/reels" />
+    <item
+        android:title="@string/profile_menu"
+        android:id="@+id/profileFragment"
+        android:src="@mipmap/ic_launcher_round" />
+
+</menu>
